@@ -1,4 +1,12 @@
- <table style="width:100%">
+ 
+      <html>
+	 <head>
+		<title> EDUCATION </title>
+	 </head>
+	 
+	<body>
+	 <body background = "sayemahmed362.github.io/bg.jpg">
+<table style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
@@ -15,3 +23,11 @@
     <td>94</td>
   </tr>
 </table> 
+
+		</br>
+		</br>
+		<a href = "http://www.google.com"> Cholo Google kori</a>
+	 </body>
+</html>
+ 
+ 
